@@ -1,16 +1,25 @@
-## Hi there 👋
+# ⚜️ Rodrigo Dias | Front-End Developer Student
 
-<!--
-**rodrigo-dias-dev/rodrigo-dias-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialista em interfaces sofisticadas, focadas em semântica, limpeza e estética **Premium/Luxury**. Atualmente aprofundando conhecimentos em HTML5 e CSS3.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+*   **Linguagens:** HTML5, CSS3 e JavaScript.
+*   **Estilos:** Domínio de seletores personalizados e especificidade[cite: 4].
+*   **Tipografia:** Implementação de fontes locais e Google Fonts[cite: 1, 5].
+*   **Design:** Teoria das Cores (Hex, RGB, HSL) e Gradientes[cite: 3, 6].
+*   **Workflow:** VS Code, GitHub, Trello e Notion.
+*   **Próximo Passo:** Python e Automação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Fundamentos e Qualidade
+Minha base técnica é construída com rigor semântico e consultas constantes à documentação oficial:
+*   **Referência Técnica:** [MDN Web Docs](https://developer.mozilla.org/).
+*   **Foco Profissional:** Código limpo e organização de projetos.
+
+---
+
+### 📫 Contato Profissional
+*   **E-mail:** [rodrigo-dias-dev@proton.me](mailto:rodrigo-dias-dev@proton.me)
+*   **Localização:** Brasil 🇧🇷
+
+---
+*"Excelência em cada detalhe, precisão em cada linha de código."*
